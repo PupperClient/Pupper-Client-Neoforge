@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "cn.pupperclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "pupperclient.mixins.refmap.json",
+  "mixins": [
+    "MixinMouseHandler"
+  ],
+  "client": [
+    "BufferUploaderAccessor",
+    "MixinGameRenderer",
+    "MixinKeyboardHandler",
+    "MixinMinecraft",
+    "MixinWindow"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

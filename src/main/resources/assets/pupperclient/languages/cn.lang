@@ -1,0 +1,550 @@
+#
+# Version 8.3
+#
+text.all=全部
+text.hud=界面
+text.render=渲染
+text.player=玩家
+text.fun=娱乐
+text.misc=杂项
+text.home=主页
+text.mods=模组
+text.music=音乐
+text.profile=个人资料
+text.settings=设置
+text.search=搜索
+text.selectfile=选择文件
+text.add=添加
+text.name=名称
+text.serveraddress=服务器地址
+text.createprofile=创建个人资料
+text.icon=图标
+
+design.simple=简约
+design.classic=经典
+design.clear=清晰
+design.materialyou=MaterialYou
+
+mod.hudsettings.name=界面
+mod.hudsettings.description=自定义界面
+
+mod.modmenu.name=模组菜单
+mod.modmenu.description=自定义模组菜单相关设置
+
+mod.fpsdisplay.name=帧率显示
+mod.fpsdisplay.description=显示Minecraft帧率
+
+mod.fakefps.name=假帧率
+mod.fakefps.description=显示假帧率
+
+mod.coords.name=坐标
+mod.coords.description=显示你的坐标
+
+mod.combocounter.name=连击计数
+mod.combocounter.description=显示连击数
+
+mod.reachdisplay.name=攻击距离显示
+mod.reachdisplay.description=显示攻击距离
+
+mod.daycounter.name=天数计数
+mod.daycounter.description=统计Minecraft天数
+
+mod.stopwatch.name=秒表
+mod.stopwatch.description=计时
+
+mod.playercounter.name=玩家计数
+mod.playercounter.description=显示玩家数量
+
+mod.healthdisplay.name=生命值显示
+mod.healthdisplay.description=显示你的生命值
+
+mod.cooldown.name=冷却指示器
+mod.cooldown.description=攻击冷却可视化
+
+mod.yawdisplay.name=偏航角显示
+mod.yawdisplay.description=显示你的偏航角
+
+mod.pitchdisplay.name=俯仰角显示
+mod.pitchdisplay.description=显示你的俯仰角
+
+mod.jumpresetindicator.name=跳跃重置指示器
+mod.jumpresetindicator.description=指示跳跃重置是否正确执行
+
+mod.snaptap.name=快切
+mod.snaptap.description=最后按下的键优先
+
+mod.gamemodedisplay.name=游戏模式显示
+mod.gamemodedisplay.description=显示你的游戏模式
+
+mod.keystrokes.name=按键显示
+mod.keystrokes.description=显示按下的键
+
+mod.mousestrokes.name=鼠标动作
+mod.mousestrokes.description=显示鼠标移动
+
+mod.cpsdisplay.name=CPS显示
+mod.cpsdisplay.description=显示CPS
+
+mod.musicinfo.name=音乐信息
+mod.musicinfo.description=显示当前播放的音乐
+
+mod.hitdelayfix.name=攻击延迟修复
+mod.hitdelayfix.description=修复攻击延迟
+
+mod.nojumpdelay.name=无跳跃延迟
+mod.nojumpdelay.description=移除跳跃延迟
+
+mod.taplook.name=快速视角
+mod.taplook.description=一键切换视角方向
+
+mod.serveripdisplay.name=服务器IP显示
+mod.serveripdisplay.description=显示你加入的服务器IP
+
+mod.namedisplay.name=名称显示
+mod.namedisplay.description=显示你的名称
+
+mod.pingdisplay.name=延迟显示
+mod.pingdisplay.description=显示你的网络延迟
+
+mod.weatherdisplay.name=天气显示
+mod.weatherdisplay.description=显示世界天气
+
+mod.playtimedisplay.name=游戏时长显示
+mod.playtimedisplay.description=显示游戏时长
+
+mod.protocolversion.name=协议版本
+mod.protocolversion.description=显示协议版本
+
+mod.zoom.name=缩放
+mod.zoom.description=放大视角
+
+mod.overlayeditor.name=覆盖编辑器
+mod.overlayeditor.description=编辑覆盖层
+
+mod.discordrpc.name=Discord RPC
+mod.discordrpc.description=启用Discord丰富状态
+
+mod.weatherchanger.name=天气更改
+mod.weatherchanger.description=更改天气
+
+mod.timechanger.name=时间更改
+mod.timechanger.description=更改世界时间
+
+mod.freelook.name=自由视角
+mod.freelook.description=可在不改变移动方向的情况下转动头部
+
+mod.clock.name=时钟
+mod.clock.description=显示当前时间
+
+mod.memoryusage.name=内存使用
+mod.memoryusage.description=显示Minecraft内存使用情况
+
+mod.bedwarsstatsoverlay.name=起床战争统计覆盖
+mod.bedwarsstatsoverlay.description=显示起床战争统计数据
+
+mod.oldanimations.name=旧版动画
+mod.oldanimations.description=恢复1.7版本的动画
+
+mod.hypixel.name=Hypixel
+mod.hypixel.description=为Hypixel提供实用功能
+
+mod.particles.name=粒子
+mod.particles.description=自定义粒子效果
+
+mod.bloodparticles.name=血液粒子
+mod.bloodparticles.description=添加血液效果
+
+mod.projectiletrail.name=投掷物轨迹
+mod.projectiletrail.description=显示投掷物后的效果
+
+mod.musicwaveform.name=音乐波形
+mod.musicwaveform.description=显示当前播放音乐的波形
+
+mod.speedometer.name=速度计
+mod.speedometer.description=显示玩家速度
+
+mod.autogg.name=自动GG
+mod.autogg.description=游戏结束时自动发送“gg”
+
+mod.customhand.name=自定义手部
+mod.customhand.description=更改手部位置、比例等
+
+mod.bossbar.name=Boss血条
+mod.bossbar.description=自定义Boss血条
+
+mod.systemsettings.name=系统设置
+mod.systemsettings.description=设置系统细节
+
+mod.fullbright.name=夜视
+mod.fullbright.description=夜视
+
+mod.webbrowser.name=网页浏览器
+mod.webbrowser.description=显示网页浏览器
+
+mod.forcemainhand.name=强制主手
+mod.forcemainhand.description=强制设置主手
+
+mod.watermark.name=水印
+mod.watermark.description=显示自定义水印文本
+mode.icon=图标
+
+setting.text=文本
+setting.text.description=自定义水印文本
+setting.darkmode=深色模式
+setting.darkmode.description=启用深色模式
+setting.keybind=快捷键
+setting.keybind.description=设置快捷键
+setting.icon=图标
+setting.icon.description=设置显示的图标
+setting.color=颜色
+setting.color.description=选择颜色
+setting.blur=模糊
+setting.blur.description=设置模糊效果
+setting.design=设计
+setting.design.description=设置设计风格
+setting.blurintensity=模糊强度
+setting.blurintensity.description=设置模糊效果的强度
+setting.maxtick=最大刻
+setting.maxtick.description=设置最大刻数
+setting.spacekey=空格键
+setting.spacekey.description=显示空格键
+setting.unmarked=未标记
+setting.unmarked.description=隐藏标记
+setting.snaptapcompatibility=快切兼容性
+setting.snaptapcompatibility.description=反映快切释放的按键
+setting.type=类型
+setting.type.description=设置类型
+setting.cover=覆盖
+setting.simple=简约
+setting.normal=普通
+setting.perspective=视角
+setting.perspective.description=设置视角方向
+setting.front=前方
+setting.behind=后方
+setting.toggle=切换
+setting.toggle.description=更改为切换模式
+setting.refreshtime=刷新时间
+setting.refreshtime.description=设置刷新时间
+setting.scroll=滚动
+setting.zoom.scroll.description=使缩放可滚动
+setting.smoothzoom=平滑缩放
+setting.smoothzoom.description=使缩放平滑
+setting.zoomspeed=缩放速度
+setting.zoomspeed.description=更改缩放动画速度
+setting.zoomfactor=缩放比例
+setting.zoomfactor.description=更改缩放比例
+setting.smoothcamera=平滑摄像头
+setting.smoothcamera.description=平滑移动摄像头
+setting.clearwater=清除水面
+setting.clearwater.description=移除水面覆盖
+setting.clearfire=清除火焰
+setting.clearfire.description=移除火焰覆盖
+setting.weather=天气
+setting.weather.description=设置天气
+setting.clear=晴朗
+setting.rain=雨天
+setting.storm=风暴
+setting.snow=雪天
+setting.time=时间
+setting.time.description=设置时间
+setting.max=最大
+setting.max.description=设置最大值
+setting.oldbreaking=旧版破坏
+setting.oldbreaking.description=恢复剑或进食时的格挡动画
+setting.disableattackcooldown=禁用攻击冷却
+setting.disableattackcooldown.description=防止剑在攻击时进入冷却
+setting.oldpvpsounds=旧版PVP音效
+setting.oldpvpsounds.description=禁用新版PVP音效
+setting.oldrod=旧版鱼竿
+setting.oldrod.description=恢复旧版鱼竿
+setting.oldbow=旧版弓
+setting.oldbow.description=恢复旧版弓
+setting.disableheartflash=禁用心跳闪烁
+setting.disableheartflash.description=禁用心跳闪烁并恢复1.7版本效果
+setting.levelhead=等级显示
+setting.levelhead.description=在名牌上显示Hypixel等级
+setting.language=语言
+setting.language.description=选择界面语言
+setting.autotip=自动提示
+setting.autotip.description=自动化提示
+setting.alwayssharpness=始终锐利
+setting.alwayssharpness.description=始终生成锐利效果
+setting.alwayscriticals=始终暴击
+setting.alwayscriticals.description=始终生成暴击效果
+setting.sharpness=锐利
+setting.sharpness.description=启用锐利效果
+setting.criticals=暴击
+setting.criticals.description=启用暴击效果
+setting.sharpnessamount=锐利效果量
+setting.sharpnessamount.description=设置锐利效果的量
+setting.criticalsamount=暴击效果量
+setting.criticalsamount.description=设置暴击效果的量
+setting.sound=声音
+setting.sound.description=启用声音
+setting.multiplier=倍率
+setting.multiplier.description=设置倍率
+setting.blacksmoke=黑色烟雾
+setting.fire=火焰
+setting.greenstar=绿色星星
+setting.hearts=爱心
+setting.magic=魔法
+setting.musicnote=音符
+setting.slime=史莱姆
+setting.spark=火花
+setting.swirl=旋涡
+setting.whitesmoke=白色烟雾
+setting.effect=效果
+setting.effect.description=设置效果类型
+setting.x=X坐标
+setting.x.description=设置X坐标位置
+setting.y=Y坐标
+setting.y.description=设置Y坐标位置
+setting.z=Z坐标
+setting.z.description=设置Z坐标位置
+setting.scale=比例
+setting.scale.description=设置比例
+setting.vanillaposition=原版位置
+setting.vanillaposition.description=设置为原版位置
+setting.blurtype=模糊类型
+setting.blurtype.description=设置模糊类型
+setting.fastblur=快速模糊
+setting.normalblur=普通模糊
+setting.ytdlppath=Ytdlp路径
+setting.ytdlppath.description=设置ytdlp路径
+setting.ffmpegpath=FFmpeg路径
+setting.ffmpegpath.description=设置ffmpeg路径
+setting.ytdlpcommand=Ytdlp命令
+setting.ytdlpcommand.description=设置ytdlp命令
+setting.gamma=伽马
+setting.gamma.description=设置伽马值
+setting.opacity=不透明度
+setting.opacity.description=设置不透明度
+setting.left=左
+setting.right=右
+
+#fakefps mod
+setting.fakefps.mode=假帧率模式
+setting.fakefps.mode.description=设置假帧率模式
+setting.fakefps.multiplier=假帧率倍率
+setting.fakefps.multiplier.description=设置假帧率倍率
+setting.fakefps.randomdigits=假帧率随机位数
+setting.fakefps.randomdigits.description=设置假帧率随机位数
+setting.fakefps.mode.real=真实帧率
+setting.fakefps.mode.multiplied=倍率帧率
+setting.fakefps.mode.random=随机帧率
+setting.fakefps.mode.fixed=固定帧率
+
+#auto gg mod
+setting.delay=延迟
+setting.delay.description=设置延迟
+setting.message=消息
+setting.message.description=设置消息
+setting.hypixel=Hypixel
+setting.hypixel.description=设置Hypixel模式
+
+#Watermark mod
+setting.darkmode=深色模式
+setting.darkmode.description=启用深色模式
+
+#heypixel mod
+mod.heypixel.name=Heypixel
+mod.heypixel.description=Heypixel
+mod.heypixel.logging.name=日志
+mod.heypixel.logging.description=日志
+
+#AutoText
+mod.autotext.name=自动文本
+mod.autotext.description=启用自动文本
+setting.text1key=文本1的键
+setting.text1key.description=设置文本1的键
+setting.text1=文本1
+setting.text1.description=设置文本1
+setting.text2key=文本2的键
+setting.text2key.description=设置文本2的键
+setting.text2=文本2
+setting.text2.description=设置文本2
+setting.text3key=文本3的键
+setting.text3key.description=设置文本3的键
+setting.text3=文本3
+setting.text3.description=设置文本3
+
+# ClickEffect mod
+mod.clickeffect.name=点击效果
+mod.clickeffect.description=点击效果
+setting.clickeffect.color=颜色
+setting.clickeffect.color.description=设置颜色
+setting.clickeffect.radius=半径
+setting.clickeffect.radius.description=设置半径
+setting.clickeffect.duration=持续时间
+setting.clickeffect.duration.description=设置持续时间
+setting.clickeffect.menuonly=菜单专用模式
+setting.clickeffect.menuonly.description=设置菜单专用模式
+text.hud=hud
+text.render=render
+text.player=player
+text.misc=misc
+text.fun=fun
+
+menu.singleplayer=单人游戏
+menu.multiplayer=多人游戏
+menu.realms=Minecraft Realms
+menu.options=选项
+menu.quit=退出游戏
+gui.done=完成
+gui.mainmenu.customization=主界面自定义
+
+addServer.serverName=服务器名字
+addServer.title=添加服务器
+addServer.serverAddress=服务器地址
+
+mod.targethud.name=Target hud
+mod.targethud.description=Target hud
+
+mod.arraylist.name=Arraylist
+mod.arraylist.description=List Mod
+setting.background=background
+setting.background1.description=Enable Background
+setting.hud=hud
+setting.hud.description=Enable Hud
+setting.render=render
+setting.render.description=Enable render
+setting.player=hud
+setting.player.description=Enable player
+setting.other=hud
+setting.other.description=Enable other
+setting.mode=mode
+setting.mode.description=set mode
+
+menu.ias=账户
+
+mod.DynamicIsland.name=Dynamic Island
+mod.DynamicIsland.description=Dynamic Island
+
+language.english=English
+language.chinese=中文
+
+addServer.add=添加服务器
+gui.cancel=取消
+
+menu.version_select=选择协议版本
+
+mod.DynamicIsland.logging.name=日志
+mod.DynamicIsland.logging.description=日志
+
+mod.fallDamageHelp.name=摔落伤害帮助
+mod.fallDamageHelp.description=摔落伤害帮助
+
+mod.disabled=已禁用
+mod.enabled=已启用
+command.help.example=示例
+command.help.title=Soar Client 命令帮助
+command.help.toggle=切换mod开关状态
+command.help.list=显示所有mod列表
+command.help.help=显示此帮助
+
+command.help.modlist.title=Soar Client Mod列表
+command.help.unknown=未知命令，输入 .help 查看帮助
+command.help.toggle.usage=用法: .t <mod名称>
+mod.eagle.autoplace.name=自动放置
+mod.eagle.autoplace.description=自动放置
+mod.eagle.delay.name=Delay
+mod.eagle.delay.description=Set BlockEdge Sensitivity
+
+command.help.modlist.refresh=刷新
+command.help.modlist.refresh.tip=点击刷新mod列表
+mod.disabled.tip=点击启用mod
+mod.enabled.tip=点击禁用mod
+command.help.modlist.stats=统计
+
+modNameText.a= 状态:
+modNameText.b=Click to toggle stats mod
+modNameText.c=Click to enable mod
+modNameText.d=Click to disable mod
+mod.smtc.name=SMTC
+mod.smtc.description=SMTC
+setting.health.display=健康显示
+setting.health.display.description=设置健康显示
+setting.health.display.text=文本
+setting.health.display.text.description=设置健康显示为文本
+setting.health.display.bar=进度条
+setting.health.display.bar.description=设置健康显示为进度条
+
+mod.smtcDisplay.name=SMTC Display
+mod.smtcDisplay.description=SMTC Display
+
+text.accpet=接受条款
+text.decline=拒绝条款
+
+mod.nohurtfov.name=取消伤害fov
+mod.nohurtfov.description=取消伤害fov
+mod.nohurtfov.nohurtFov.name=取消伤害fov
+mod.nohurtfov.nohurtFov.description=取消伤害fov
+
+mod.autogg.name=自动GG
+mod.autogg.description=自动GG
+
+mod.heypixel.autoAgain.name=自动再次开始游戏
+mod.heypixel.autoAgain.description=自动再次开始游戏
+
+# IRC Mod
+mod.irc.name=IRC Chat
+mod.irc.description=Connect to IRC servers and chat with other players
+
+# IRC Settings
+setting.irc.server=Server
+setting.irc.server.description=IRC server address (hostname or IP)
+setting.irc.port=Port
+setting.irc.port.description=IRC server port number
+setting.irc.username=Username
+setting.irc.username.description=Your IRC username
+setting.irc.password=Password
+setting.irc.password.description=Your IRC password/token
+setting.irc.auto_connect=Auto Connect
+setting.irc.auto_connect.description=Automatically connect to IRC on startup
+setting.irc.show_messages=Show Messages
+setting.irc.show_messages.description=Display IRC messages in chat
+
+mod.cloudmusic.name=云音乐
+mod.cloudmusic.description=显示当前正在播放的云音乐歌曲名称
+
+mod.cloudmusic.name=Cloud Music
+mod.cloudmusic.description=Show the name of the currently playing song on Cloud Music
+mod.cloudmusic.mode=Cloud Music Mode
+mod.cloudmusic.mode.description=Change the Cloud Music Name Mode
+mod.cloudmusic.smtc=Smtc
+mod.cloudmusic.powershell=Powershell
+
+text.accept=接受条款
+text.decline=拒绝条款
+gui.done=完成
+
+mod.sprint.name=疾跑
+mod.sprint.description=疾跑
+
+command.music.searching=搜索音乐: {0}
+command.music.search.failed=搜索失败，请稍后重试
+command.music.not.found=未找到相关音乐
+command.music.download.start=开始下载: {0}
+command.music.download.success=下载完成: {0}
+command.music.download.failed=下载失败: {0}
+command.music.quality=音质: {0}
+command.music.save.location=保存位置: {0}
+command.music.unavailable=音乐不可用: {0}
+command.music.quick.download=快速下载: {0}
+
+setting.lyrics.display.name=显示歌词
+setting.lyrics.display.description=显示当前正在播放的歌曲歌词
+setting.cover.animation.name=封面动画
+setting.cover.animation.description=启用封面动画效果
+setting.glow.name=发光
+setting.glow.description=启用歌曲封面发光效果
+setting.glow.intensity.name=发光强度
+setting.glow.intensity.description=设置歌曲封面发光的强度
+setting.glow.range.name=发光范围
+setting.glow.range.description=设置歌曲封面发光的范围
+
+musictool.name.check=正在检查音乐工具...
+musictool.name.installed=音乐工具已安装!
+musictool.name.downloading=正在下载音乐工具...
+musictool.name.failed=音乐工具安装失败
+musictool.name.done=音乐工具准备就绪

@@ -1,0 +1,550 @@
+#
+# Version 8.3
+#
+text.all=All
+text.hud=HUD
+text.render=Render
+text.player=Player
+text.fun=Fun
+text.misc=Misc
+text.home=Home
+text.mods=Mods
+text.music=Music
+text.profile=Profile
+text.settings=Settings
+text.search=Search
+text.selectfile=Select File
+text.add=Add
+text.name=Name
+text.serveraddress=Server Address
+text.createprofile=Create Profile
+text.icon=Icon
+
+design.simple=Simple
+design.classic=Classic
+design.clear=Clear
+design.materialyou=MaterialYou
+
+mod.cooldown.name=Cooldown Indicator
+mod.cooldown.description=Enhanced attack cooldown visualization
+
+mod.hudsettings.name=HUD
+mod.hudsettings.description=Customizing the HUD
+
+mod.modmenu.name=Mod Menu
+mod.modmenu.description=Customize Mod Menu related settings
+
+mod.fpsdisplay.name=FPS Display
+mod.fpsdisplay.description=Display Minecraft FPS
+
+mod.fakefps.name=Fake Fps Display
+mod.fakefps.description=Display Fake Fps
+
+mod.coords.name=Coords
+mod.coords.description=Display your coordnates
+
+mod.combocounter.name=Combo Counter
+mod.combocounter.description=Display Combo
+
+mod.reachdisplay.name=Reach Display
+mod.reachdisplay.description=Display reach
+
+mod.daycounter.name=Day Counter
+mod.daycounter.description=Count Minecraft day
+
+mod.stopwatch.name=Stopwatch
+mod.stopwatch.description=Measure the time
+
+mod.playercounter.name=Player Counter
+mod.playercounter.description=Display the number of players
+
+mod.healthdisplay.name=Health Display
+mod.healthdisplay.description=Display your health
+
+mod.yawdisplay.name=Yaw Display
+mod.yawdisplay.description=Display yaw of you
+
+mod.pitchdisplay.name=Pitch Display
+mod.pitchdisplay.description=Display pitch of you
+
+mod.jumpresetindicator.name=Jump Reset Indicator
+mod.jumpresetindicator.description=Indicate if jump reset was done correctly
+
+mod.snaptap.name=Snap Tap
+mod.snaptap.description=The last key pressed takes precedence
+
+mod.gamemodedisplay.name=Game Mode Display
+mod.gamemodedisplay.description=Display your game mode
+
+mod.keystrokes.name=Keystrokes
+mod.keystrokes.description=Display pressed keys
+
+mod.mousestrokes.name=Mouse Strokes
+mod.mousestrokes.description=Display mouse movements
+
+mod.cpsdisplay.name=CPS Display
+mod.cpsdisplay.description=Display CPS
+setting.rightclick=Right click
+setting.rightclick.description=Display CPS when right click is pressed
+
+mod.musicinfo.name=Music Info
+mod.musicinfo.description=Display the currently playing music
+
+mod.hitdelayfix.name=Hit Delay Fix
+mod.hitdelayfix.description=Fix the hit delay
+
+mod.nojumpdelay.name=No Jump Delay
+mod.nojumpdelay.description=Remove jump delays
+
+mod.taplook.name=Taplook
+mod.taplook.description=Switch viewing orientation at the touch of a button
+
+mod.serveripdisplay.name=Server IP Display
+mod.serveripdisplay.description=Display the IP of the server you are joining
+
+mod.namedisplay.name=Name Display
+mod.namedisplay.description=Display your name
+
+mod.pingdisplay.name=Ping Display
+mod.pingdisplay.description=Display your ping
+
+mod.weatherdisplay.name=Weather Display
+mod.weatherdisplay.description=Display world weather
+
+mod.playtimedisplay.name=Play Time Display
+mod.playtimedisplay.description=Display playing time
+
+mod.protocolversion.name=Protocol Version
+mod.protocolversion.description=Display the Protocol Version
+
+mod.zoom.name=Zoom
+mod.zoom.description=Zoom in on a viewpoint
+
+mod.overlayeditor.name=Overlay Editor
+mod.overlayeditor.description=Edit Overlay
+
+mod.discordrpc.name=Discord RPC
+mod.discordrpc.description=Enable Discord Rich Presence
+
+mod.weatherchanger.name=Weather Changer
+mod.weatherchanger.description=Change the weather
+
+mod.timechanger.name=Time Changer
+mod.timechanger.description=Change the world time
+
+mod.freelook.name=Freelook
+mod.freelook.description=Can turn head without changing direction
+
+mod.clock.name=Clock
+mod.clock.description=Display current time
+
+mod.memoryusage.name=Memory Usage
+mod.memoryusage.description=Display Minecraft memory usage
+
+mod.bedwarsstatsoverlay.name=Bedwars Stats Overlay
+mod.bedwarsstatsoverlay.description=Display Bedwars Stats
+
+mod.oldanimations.name=Old Animations
+mod.oldanimations.description=Return animation to 1.7
+
+mod.hypixel.name=Hypixel
+mod.hypixel.description=Useful features for Hypixel
+
+mod.particles.name=Particles
+mod.particles.description=Customize the particles
+
+mod.bloodparticles.name=Blood Particles
+mod.bloodparticles.description=Add a blood effects
+
+mod.projectiletrail.name=Projectile Trail
+mod.projectiletrail.description=Display effects after thrown objects
+
+mod.musicwaveform.name=Music Waveform
+mod.musicwaveform.description=Displays the waveform of the currently playing music
+
+mod.memoryusage.name=Memory Usage
+mod.memoryusage.description=Display Minecraft memory usage
+
+mod.speedometer.name=Speedometer
+mod.speedometer.description=Display player speed
+
+mod.heypixel.name=Heypixel
+mod.heypixel.description=Useful features for Hypixel
+
+mod.customhand.name=Custom Hand
+mod.customhand.description=Change the position scale etc
+
+mod.bossbar.name=Boss Bar
+mod.bossbar.description=Customize boss bar
+
+mod.systemsettings.name=System Settings
+mod.systemsettings.description=Setting the system details
+
+mod.fullbright.name=Fullbright
+mod.fullbright.description=Brighten your viewpoint
+
+mod.webbrowser.name=Web Browser
+mod.webbrowser.description=Display the Web Browser
+
+mod.forcemainhand.name=Force Main Hand
+mod.forcemainhand.description=Force the main hand to be set
+
+mod.watermark.name=Watermark
+mod.watermark.description=Display custom watermark text
+mode.icon=Icon
+
+setting.text=Text
+setting.text.description=Custom watermark text
+setting.darkmode=Dark Mode
+setting.darkmode.description=Enable dark mode
+setting.keybind=Keybind
+setting.keybind.description=Set keybind
+setting.icon=Icon
+setting.icon.description=Set the icon to display
+setting.color=Color
+setting.color.description=Select a color
+setting.blur=Blur
+setting.blur.description=Set the Blur effect
+setting.design=Design
+setting.design.description=Set the design
+setting.blurintensity=Blur intensity
+setting.darkmode=Dark mode
+setting.blurintensity.description=Set the intensity of the blur
+setting.maxtick=Max tick
+setting.maxtick.description=Set the maximum number of ticks
+setting.spacekey=Space Key
+setting.spacekey.description=Display the space key
+setting.unmarked=Unmarked
+setting.unmarked.description=Hide the mark
+setting.snaptapcompatibility=Compatibility with SnapTap
+setting.snaptapcompatibility.description=Reflects keys released by Snap Tap
+setting.type=Type
+setting.type.description=Set the Type
+setting.cover=Cover
+setting.simple=Simple
+setting.normal=Normal
+setting.perspective=Perspective
+setting.perspective.description=Set the Perspective orientation
+setting.front=Front
+setting.behind=Behind
+setting.toggle=Toggle
+setting.toggle.description=Change to toggle
+setting.refreshtime=Refresh Time
+setting.refreshtime.description=Set a time to refresh
+setting.scroll=Scroll
+setting.zoom.scroll.description=Make the zoom scrollable
+setting.smoothzoom=Smooth Zoom
+setting.smoothzoom.description=Make zoom smooth
+setting.zoomspeed=Zoom Speed
+setting.zoomspeed.description=Changing the zoom animation speed
+setting.zoomfactor=Zoom Factor
+setting.zoomfactor.description=Change the factor of zoom
+setting.smoothcamera=Smooth Camera
+setting.smoothcamera.description=Smoothly move the camera
+setting.clearwater=Clear Water
+setting.clearwater.description=Remove water overlay
+setting.clearfire=Clear Fire
+setting.clearfire.description=Remove fire overlay
+setting.weather=Weather
+setting.weather.description=Set the weather
+setting.clear=Clear
+setting.rain=Rain
+setting.storm=Storm
+setting.snow=Snow
+setting.time=Time
+setting.time.description=Set the time
+setting.max=Max
+setting.max.description=Set the max
+setting.oldbreaking=Old Breaking
+setting.oldbreaking.description=Return to blocking animation while sword or eating
+setting.disableattackcooldown=Disable Attack Cooldown
+setting.disableattackcooldown.description=Prevents the sword from going down on cooldown when attacking
+setting.oldpvpsounds=Old PvP Sounds
+setting.oldpvpsounds.description=Disable sound for new PvP
+setting.oldrod=Old Rod
+setting.oldrod.description=Revert to the old Rod
+setting.oldbow=Old Bow
+setting.oldbow.description=Revert to the old bow
+setting.disableheartflash=Disable Heart Flash
+setting.disableheartflash.description=Disable heart flash and revert to 1.7
+setting.levelhead=Level Head
+setting.levelhead.description=Display Hypixel Level on nametag
+setting.autotip=Auto Tip
+setting.autotip.description=Automate the tip
+setting.alwayssharpness=Always Sharpness
+setting.alwayssharpness.description=Always spawn the sharpness effect
+setting.alwayscriticals=Always Criticals
+setting.alwayscriticals.description=Always spawn the criticals effect
+setting.sharpness=Sharpness
+setting.sharpness.description=Enable the sharpness effect
+setting.criticals=Criticals
+setting.criticals.description=Enable the criticals effect
+setting.sharpnessamount=Sharpness Amount
+setting.sharpnessamount.description=Set the amount of sharpness effect
+setting.criticalsamount=Criticals Amount
+setting.criticalsamount.description=Set the amount of criticals effect
+setting.sound=Sound
+setting.sound.description=Enable Sound
+setting.multiplier=Multiplier
+setting.multiplier.description=Set the multiplier
+setting.blacksmoke=Black Smoke
+setting.fire=Fire
+setting.greenstar=Green Star
+setting.hearts=Hearts
+setting.magic=Magic
+setting.musicnote=Music Note
+setting.slime=Slime
+setting.spark=Spark
+setting.swirl=Swirl
+setting.whitesmoke=White Smoke
+setting.effect=Effect
+setting.effect.description=Set the type of effect
+setting.x=X
+setting.x.description=Set the x position
+setting.y=Y
+setting.y.description=Set the y position
+setting.z=Z
+setting.z.description=Set the z position
+setting.scale=Scale
+setting.scale.description=Set the scale
+setting.vanillaposition=Vanilla Position
+setting.vanillaposition.description=Set to the Position of Vanilla
+setting.blurtype=Blur Type
+setting.blurtype.description=Set the blur type
+setting.fastblur=Fast Blur
+setting.normalblur=Normal Blur
+setting.ytdlppath=Ytdlp Path
+setting.ytdlppath.description=Set the ytdlp path
+setting.ffmpegpath=FFmpeg Path
+setting.ffmpegpath.description=Set the ffmpeg path
+setting.ytdlpcommand=Ytdlp Command
+setting.ytdlpcommand.description=Set the ytdlp command
+setting.gamma=Gamma
+setting.gamma.description=Set the gamma
+setting.opacity=Opacity
+setting.opacity.description=Set the opacity
+setting.left=Left
+setting.right=Right
+setting.language=Language
+setting.language.description=Set the language
+setting.language.english=English
+setting.language.chinese=Chinese
+
+#fakefps mod
+setting.fakefps.mode=Fake FPS Mode
+setting.fakefps.mode.description=Set the fake fps mode
+setting.fakefps.multiplier=Fake FPS Multiplier
+setting.fakefps.multiplier.description=Set the fake fps multiplier
+setting.fakefps.randomdigits=Fake FPS Random Digits
+setting.fakefps.randomdigits.description=Set the fake fps random digits
+setting.fakefps.mode.real=Real
+setting.fakefps.mode.multiplied=Multiplied
+setting.fakefps.mode.random=Random
+setting.fakefps.mode.fixed=Fixed
+
+#auto gg mod
+setting.delay=Delay
+setting.delay.description=Set the delay
+setting.message=Message
+setting.message.description=Set the message
+setting.hypixel=Hypixel
+setting.hypixel.description=Set the hypixel
+
+#Watermark
+setting.showLogo=Show Logo
+setting.showLogo.description=Show the logo
+
+mod.autoplay.name=Auto Play
+mod.autoplay.desc=Set the auto play
+setting.heypixel.mode.heypixel_sw=Heypixel sw
+setting.heypixel.mode.description=Set the heypixel sw mode
+
+#Auto Text
+mod.autotext.name=Auto Text
+mod.autotext.description=Set the auto text
+setting.text1key=Text 1 Key
+setting.text1key.description=Set the text 1 key
+setting.text1=Text 1
+setting.text1.description=Set the text 1
+setting.text2key=Text 2 Key
+setting.text2key.description=Set the text 2 key
+setting.text2=Text 2
+setting.text2.description=Set the text 2
+setting.text3key=Text 3 Key
+setting.text3key.description=Set the text 3 key
+setting.text3=Text 3
+setting.text3.description=Set the text 3
+
+menu.singleplayer=Singleplayer
+menu.multiplayer=Multiplayer
+menu.realms=Minecraft Realms
+menu.options=Options
+menu.quit=Quit Game
+gui.done=Done
+gui.mainmenu.customization=Custom Mainmenu
+
+multiplayer.add_server=Add Server
+multiplayer.direct_connect=Direct Connect
+addServer.serverName=Server name
+addServer.title=Add Server
+addServer.serverAddress=Server Address
+
+mod.targethud.name=Target hud
+mod.targethud.description=Target hud
+
+mod.arraylist.name=Arraylist
+mod.arraylist.description=List Mod
+setting.background=background
+setting.background1.description=Enable Background
+setting.hud=hud
+setting.hud.description=Enable Hud
+setting.render=render
+setting.render.description=Enable render
+setting.player=hud
+setting.player.description=Enable player
+setting.other=hud
+setting.other.description=Enable other
+setting.mode=mode
+setting.mode.description=set mode
+
+menu.ias=Account
+
+mod.DynamicIsland.name=Dynamic Island
+mod.DynamicIsland.description=Dynamic Island
+
+language.english=English
+language.chinese=中文
+
+addServer.add=Add Server
+gui.cancel=Cancel
+
+menu.version_select=Select Protocol Version
+
+mod.DynamicIsland.logging.name=Logging
+mod.DynamicIsland.logging.description=Logging
+
+mod.fallDamageHelp.name=Fall Damage Help
+mod.fallDamageHelp.description=Fall Damage Help
+
+mod.autoplay.logging.name=Logging
+mod.autoplay.logging.description=Logging
+
+mod.disabled=Disabled
+mod.enabled=Enabled
+command.help.example=Example
+command.help.title=Soar Client Command Help
+command.help.toggle=Toggle mod switch state
+command.help.list=Show all mod list
+command.help.help=Show this help
+command.help.modlist.title=Soar Client Mod List
+command.help.modlist.description=Show all mod list
+mod.notFound=Mod not found
+modManager.notInitialized=ModManager not initialized
+command.help.unknown=Unknown command, input .help to view help
+command.help.toggle.usage=Usage: .t <mod name>
+
+command.help.modlist.refresh=Refresh
+command.help.modlist.refresh.tip=Click to refresh mod list
+mod.disabled.tip=Click to enable mod
+mod.enabled.tip=Click to disable mod
+command.help.modlist.stats=Statistics
+
+mod.clickeffect.name=Click Effect
+mod.clickeffect.description=Click Effect
+setting.clickeffect.color=Color
+setting.clickeffect.color.description=Set the color
+setting.clickeffect.radius=Radius
+setting.clickeffect.radius.description=Set the radius
+setting.clickeffect.duration=Duration
+setting.clickeffect.duration.description=Set the duration
+setting.clickeffect.menuonly=Menu Only
+setting.clickeffect.menuonly.description=Menu Only
+
+modNameText.a= the status of
+modNameText.b=Click to toggle mod
+modNameText.c=Click to enable mod
+modNameText.d=Click to disable mod
+mod.smtc.name=SMTC
+mod.smtc.description=SMTC
+setting.health.display=Health Display
+setting.health.display.description=Set health display
+setting.health.display.text=Text
+setting.health.display.text.description=Set health display to text
+setting.health.display.bar=Bar
+setting.health.display.bar.description=Set health display to bar
+
+mod.Island.customname=Custom Name
+mod.Island.customname.description=Set the custom name
+
+text.accept=Accept
+text.decline=Decline
+gui.done=Done
+
+mod.nohurtfov.name=No Hurt Fov
+mod.nohurtfov.description=No Hurt Fov
+mod.nohurtfov.nohurtFov.name=No Hurt Fov
+mod.nohurtfov.nohurtFov.description=No Hurt Fov
+
+mod.heypixel.logging.name=Logging
+mod.heypixel.logging.description=Logging
+
+mod.autogg.name=Auto GG
+mod.autogg.description=Auto GG
+
+# IRC Mod
+mod.irc.name=IRC Chat
+mod.irc.description=Connect to IRC servers and chat with other players
+
+# IRC Settings
+setting.irc.server=Server
+setting.irc.server.description=IRC server address (hostname or IP)
+setting.irc.port=Port
+setting.irc.port.description=IRC server port number
+setting.irc.username=Username
+setting.irc.username.description=Your IRC username
+setting.irc.password=Password
+setting.irc.password.description=Your IRC password/token
+setting.irc.auto_connect=Auto Connect
+setting.irc.auto_connect.description=Automatically connect to IRC on startup
+setting.irc.show_messages=Show Messages
+setting.irc.show_messages.description=Display IRC messages in chat
+
+
+mod.cloudmusic.name=Cloud Music
+mod.cloudmusic.description=Show the name of the currently playing song on Cloud Music
+mod.cloudmusic.mode=Cloud Music Mode
+mod.cloudmusic.mode.description=Change the Cloud Music Name Mode
+mod.cloudmusic.smtc=Smtc
+mod.cloudmusic.powershell=Powershell
+
+mod.sprint.name=Sprint
+mod.sprint.description=Sprint
+
+command.music.searching=Searching for music: {0}
+command.music.search.failed=Search failed, please try again later
+command.music.not.found=No music found related to: {0}
+command.music.download.start=Downloading: {0}
+command.music.download.success=Download completed: {0}
+command.music.download.failed=Download failed: {0}
+command.music.quality=Quality: {0}
+command.music.save.location=Save location: {0}
+command.music.unavailable=Music unavailable: {0}
+command.music.quick.download=Quick Download: {0}
+
+setting.lyrics.display.name=Lyrics Display
+setting.lyrics.display.description=Display the lyrics of the currently playing song
+setting.cover.animation.name=Cover Animation
+setting.cover.animation.description=Enable animation effect for the song cover
+setting.glow.name=Glow
+setting.glow.description=Enable glow effect for the song cover
+setting.glow.intensity.name=Glow Intensity
+setting.glow.intensity.description=Set the intensity of the glow effect for the song cover
+setting.glow.range.name=Glow Range
+setting.glow.range.description=Set the range of the glow effect for the song cover
+
+musictool.name.check=Checking music tool...
+musictool.name.installed=Music tool installed!
+musictool.name.downloading=Downloading music tool...
+musictool.name.failed=Music tool installation failed
+musictool.name.done=Music tool ready
+
